@@ -1,6 +1,6 @@
 {
   "name": "three.js-typescript-tutorial",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "Marty McGee, Company Juice",
   "description": "Learn ThreeJS TypeScript Programming",
   "scripts": {
