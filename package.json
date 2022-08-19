@@ -1,6 +1,6 @@
 {
   "name": "three.js-typescript-tutorial",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "author": "Marty McGee, Company Juice",
   "description": "Learn ThreeJS TypeScript Programming",
   "scripts": {
@@ -9,11 +9,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.143.0"
+  },
   "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
     "@types/three": "^0.143.1",
     "pnpm": "^7.9.3",
-    "three": "^0.143.0",
     "ts-loader": "^9.3.1",
     "typescript": "^4.7.4",
     "webpack": "^5.74.0",
