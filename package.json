@@ -1,6 +1,6 @@
 {
   "name": "three.js-typescript-tutorial",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "author": "Marty McGee, Company Juice",
   "description": "Learn ThreeJS TypeScript Programming",
   "scripts": {
@@ -15,6 +15,8 @@
   },
   "devDependencies": {
     "@types/dat.gui": "^0.7.7",
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.7.7",
     "@types/three": "^0.143.1",
     "pnpm": "^7.9.3",
     "ts-loader": "^9.3.1",
