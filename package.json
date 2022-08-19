@@ -1,11 +1,15 @@
 {
   "name": "three.js-typescript-tutorial",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Marty McGee, Company Juice",
   "description": "Learn ThreeJS TypeScript Programming",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/three": "^0.143.1",
+    "three": "^0.143.0"
+  }
 }
