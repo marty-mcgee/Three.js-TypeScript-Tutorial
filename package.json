@@ -1,6 +1,6 @@
 {
   "name": "three.js-typescript-tutorial",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Marty McGee, Company Juice",
   "description": "Learn ThreeJS TypeScript Programming",
   "main": "index.ts",
@@ -10,6 +10,12 @@
   "license": "MIT",
   "dependencies": {
     "@types/three": "^0.143.1",
-    "three": "^0.143.0"
+    "three": "^0.143.0",
+    "ts-loader": "^9.3.1",
+    "typescript": "^4.7.4",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.10.0",
+    "webpack-merge": "^5.8.0"
   }
 }
